@@ -1,0 +1,5 @@
+This is my first project
+git status
+git add <filename>
+git commit -m "message"
+git push -u origin main
